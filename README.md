@@ -1,5 +1,3 @@
-# arihi.net demos
+# demos
 
- 私のブログ [arihi.net](http://arihi.net) で使用しているデモプログラムを置いています。
-
- また、各デモは http://demos.arihi.net/ から見ることができます。
+three.js で作った様々なデモを置いてます。
